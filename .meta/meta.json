@@ -1,9 +1,9 @@
 {
   "bc04636a-a907-49d2-9dae-40798331d1fe": {
     "gitAppName": "Internal App",
-    "lastCommitMessage": "App Internal App created",
+    "lastCommitMessage": " v1 Version of app Internal App promoted from development to staging",
     "gitVersionId": "be995578-ba4c-47d4-8087-7a303764907c",
-    "lastpushDate": "2024-04-02T19:10:34.877Z",
+    "lastpushDate": "2024-04-02T19:10:45.499Z",
     "gitVersionName": "v1",
     "lastCommitUser": "Abhinav Sharma"
   }
